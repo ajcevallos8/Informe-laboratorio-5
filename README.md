@@ -23,6 +23,19 @@ Anthony Cevallos
 
 # 3.RESOLUCIÓN DE EJERCICIOS
 
+Materiales requeridos
+
+![image](https://user-images.githubusercontent.com/116813974/210902426-346921bb-9510-4b0b-87e3-478957731913.png)
+
+3. PROCEDIMIENTO
+
+3.1. Arme el circuito que se muestra en la figura 5.1.
+
+![Uploading image.png…]()
+
+
+
+
 
 # 4. VIDEO
 
