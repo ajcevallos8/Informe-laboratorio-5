@@ -31,7 +31,8 @@ Materiales requeridos
 
 3.1. Arme el circuito que se muestra en la figura 5.1.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116813974/210902479-c6b71c75-df23-4090-ba36-05555bcdbbee.png)
+
 
 
 
