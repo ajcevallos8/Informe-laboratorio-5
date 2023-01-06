@@ -118,6 +118,7 @@ Calcular errores de las mediciones y comentar los resultados.
 
 # 4. VIDEO
 
+https://www.youtube.com/watch?v=iOtfPV1wYjc
 
 # 5. CONCLUSIONES
 •	Al concluir las simulaciones se pudo comprobar que tanto de forma teórica como experimental el teorema de Thévenin si nos permite reducir el circuito a una sola fuente de voltaje y una sola resistencia.
