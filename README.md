@@ -27,7 +27,17 @@
 
 # 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/116761073/210906299-89306b28-3877-4642-9523-e1500cb19765.png)
 
+![image](https://user-images.githubusercontent.com/116761073/210906330-39cce636-98a4-40b7-9fd7-49ec273b0087.png)
+
+![image](https://user-images.githubusercontent.com/116761073/210906358-0ae73fee-7373-450e-91c0-01c21bb3f0c8.png)
+
+![image](https://user-images.githubusercontent.com/116761073/210906390-1a762c3f-504b-4c1d-a6b3-e860b2e164f3.png)
+
+![image](https://user-images.githubusercontent.com/116761073/210906424-3faaa054-b178-484f-adb7-0b8b20e20a26.png)
+
+![image](https://user-images.githubusercontent.com/116761073/210906456-22d90511-f1e1-43f0-984a-d92a33c93128.png)
 
 
 # 3.RESOLUCIÓN DE EJERCICIOS
