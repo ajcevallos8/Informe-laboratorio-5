@@ -32,6 +32,32 @@
 
 # 3.RESOLUCIÓN DE EJERCICIOS
 
+Materiales requeridos
+
+![image](https://user-images.githubusercontent.com/116813974/210903693-eb8b67fa-5e45-4975-920d-2c9d95b52482.png)
+
+3. PROCEDIMIENTO
+
+3.1. Arme el circuito que se muestra en la figura 5.1.
+
+![image](https://user-images.githubusercontent.com/116813974/210903739-bc4b55ad-2321-41f7-829b-44e44eaa51e1.png)
+
+3.2. Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2
+
+![image](https://user-images.githubusercontent.com/116813974/210903801-9c643136-83fb-4b4d-b590-df03d9b7431e.png)
+
+3.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
+medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/116813974/210903853-3216b9d9-b5b2-475c-828b-10564ff37b22.png)
+
+3.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/116813974/210903902-e66d84c6-45e3-4e08-aac5-c6b221c91f80.png)
+
+3.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
+corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![image](https://user-images.githubusercontent.com/116813974/210902679-6c201fd1-6654-47d3-9843-9130509c3a62.png)
 
