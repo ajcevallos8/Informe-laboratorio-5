@@ -5,16 +5,23 @@
 ### Ingeniero Darwin Omar Alulema Flores
 
 ### Integrantes:
-Michael Toroche
+•	Michael Bryan Toroche Quishpe 
 
-Jhon Quingatuña
+•	Jhon Steven Quingatuña Moreano
 
-Anthony Cevallos
+•	 Anthony Javier Cevallos Ramirez
 
 # 1. OBJETIVOS
 
 
-## Objetivos especificos
+### OBJETIVO GENERAL
+•	Aplicar el Teorema de Thévenin en el circuito y poder comprobar los valores obtenidos en el simulador y en los cálculos realizados.
+
+### OBJETIVOS ESPECIFICOS
+•	Observar la factibilidad del Teorema de Thévenin, aplicado en el análisis de un circuito mixto
+
+•	Determinar el valor de voltaje y corriente en una resistencia determinada, aplicando el Teorema de Thévenin
+
 
 
 
@@ -23,25 +30,15 @@ Anthony Cevallos
 
 # 3.RESOLUCIÓN DE EJERCICIOS
 
-Materiales requeridos
-
-![image](https://user-images.githubusercontent.com/116813974/210902426-346921bb-9510-4b0b-87e3-478957731913.png)
-
-3. PROCEDIMIENTO
-
-3.1. Arme el circuito que se muestra en la figura 5.1.
-
-![image](https://user-images.githubusercontent.com/116813974/210902479-c6b71c75-df23-4090-ba36-05555bcdbbee.png)
-
-
-
-
-
 
 # 4. VIDEO
 
 
 # 5. CONCLUSIONES
+•	Al concluir las simulaciones se pudo comprobar que tanto de forma teórica como experimental el teorema de Thévenin si nos permite reducir el circuito a una sola fuente de voltaje y una sola resistencia.
+
+•	Para concluir el voltaje equivalente de Thévenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (RTH) es la resistencia total que aparece entre dos terminales 
+
 
 
 # 6. BIBLIOGRAFIA
